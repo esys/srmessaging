@@ -1,4 +1,4 @@
-# SR Messenging
+# SR Messaging
 
 ## Objective
 
@@ -68,7 +68,7 @@ Flags:
 # How to test the app
 
 - run the backend as seen above
-- open two tabs for user A & B with the test webpage (see project srmessenging-ui)
+- open two tabs for user A & B with the test webpage (see project https://github.com/esys/srmessaging-ui)
 - in tab A : fill in the "Send To" field with the user B id
 - in tab A : enter a message and press send
 - in tab B : received message is displayed at the bottom
